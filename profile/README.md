@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=nomade-finance&&style=flat-square)
+![](https://komarev.com/ghpvc/?username=nomade-finance&&style=flat-square) ![The Well App](nomade.svg)
 
 #  Votre Portail Sécurisé vers l'Univers des Cryptomonnaies
 
