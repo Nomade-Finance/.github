@@ -1,5 +1,3 @@
-![](https://komarev.com/ghpvc/?username=nomade-finance&&style=flat-square) ![The Well App](nomade.svg)
-
 #  Votre Portail Sécurisé vers l'Univers des Cryptomonnaies
 
 Bienvenue dans la documentation de Nomade Finance, votre portail simple et sécurisé vers le monde des Cryptomonnaies.
