@@ -1,31 +1,28 @@
-#  🏕️ Bienvenue dans la tribu, *cher(e)* Nomade.
+#  🏕️ Bienvenue, *cher(e)* Nomade.
 
 Nomade Finance est votre passerelle vers le monde des crypto-actifs, conçue pour répondre aux besoins de l'Afrique de l'Ouest. Notre plateforme offre des échanges fluides et sécurisés entre vos **crypto-actifs** préférés et les mobiles money, simplifiant ainsi l'accès aux actifs numériques dans cette région dynamique.
 
-## Pourquoi Choisir Nomade Finance ?
+## Rejoignez la *tribu*
 
-- **Simplicité** : L'achat, la vente et l'échange de crypto-actifs n'ont jamais été aussi simples grâce à notre interface utilisateur intuitive.
+Chez **Nomade Finance**, nous croyons en la force de la communauté. Rejoignez notre communauté et faites partie de quelque chose de plus grand ! Voici ce que vous pouvez attendre en rejoignant notre communauté :
 
-- **Frais Compétitifs** : Nous facturons des frais de transaction compétitifs pour maximiser vos opportunités sur le marché.
+- **Partage de Connaissances** : Échangez des informations, des astuces et des stratégies avec d'autres membres de la communauté pour vous aider à mieux comprendre les crypto-actifs.
 
-- **Support Dédié** : Notre équipe de support est à votre disposition 24h/24, 7j/7, prête à vous assister en cas de besoin.
+- **Événements Communautaires** : Participez à nos événements communautaires, webinaires et discussions en direct pour rester à jour avec les dernières tendances et développements dans le monde de la finance *(décentralisée)*.
 
-## Démarrage Rapide
+- **Soutien et Entraide** : Notre communauté est là pour vous. Si vous avez des questions ou avez besoin d'aide, d'autres membres de la communauté et notre équipe de support sont prêts à vous assister.
 
-Pour commencer à utiliser Nomade Finance, suivez ces étapes simples :
+- **Contribuez au Projet** : Vous pouvez également contribuer au développement de Nomade Finance. Si vous êtes un développeur, apportez vos compétences et vos idées pour améliorer notre plateforme.
 
-1. Créez un compte en vous inscrivant sur la plateforme.
-2. Vérifiez votre identité conformément à nos instructions d'authentification.
-3. Explorez notre interface conviviale pour acheter ou vendre vos crypto-actifs selon vos besoins.
-
-## Support et Assistance
+- **Suivez-nous sur les Réseaux Sociaux** : Rejoignez-nous sur [Discord](https://discord.gg/dvES9Jf7Ud), [LinkedIn](https://www.linkedin.com/company/nomade-finance/) et [Twitter](lien_twitter) pour des mises à jour, des discussions et des interactions sociales passionnantes.
 
 Si vous rencontrez des problèmes ou avez des questions, n'hésitez pas à nous contacter :
 
-- Utilisez notre chat en direct disponible 24h/7j.
-- Remplissez notre formulaire de contact sur notre site web.
-- Contactez notre équipe de support par téléphone ou par e-mail.
+- Sur le serveur [Discord](https://discord.gg/dvES9Jf7Ud).
+- Contactez notre équipe de support par mail au: support@nomade.finance
 
-Nous nous engageons à vous fournir le meilleur service possible, avec pour priorité votre satisfaction. Nous sommes ravis que vous ayez choisi Nomade Finance pour vos activités liées aux crypto-actifs dans la région de l'Afrique de l'Ouest.
+---
+
+Nous sommes une équipe passionnée par la finance et la technologie, travaillant sur des projets innovants pour façonner l'avenir des services financiers. Découvrez nos projets open source, nos contributions à la communauté et bien plus encore !
 
 Rejoignez-nous dans cette aventure passionnante !
