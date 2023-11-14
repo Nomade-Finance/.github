@@ -25,7 +25,7 @@ Si vous rencontrez des problèmes ou avez des questions, n'hésitez pas à:
 
 ```Rejoignez-nous dans cette aventure passionnante! 🚀```
 
-<div style="display: grid" align="center">
+<div align="left">
   <h3>
     Client:
     <img align="center" alt="GitHub contributors" src="https://img.shields.io/github/contributors/Nomade-Finance/nomade-client">
@@ -33,6 +33,17 @@ Si vous rencontrez des problèmes ou avez des questions, n'hésitez pas à:
       <img align="center" src="https://app.codacy.com/project/badge/Grade/7226dc4c090244218f411fefc03d54d4"/>
     </a>
     <img align="center" alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/Nomade-Finance/nomade-client">
+    <img align="center" alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Nomade-Finance/nomade-client">
+  </h3>
+</div>
+
+
+<div align="left">
+  <h3>
+    Serveur:
+    <img align="center" alt="GitHub contributors" src="https://img.shields.io/github/contributors/Nomade-Finance/nomade-server">
+    <img align="center" alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/Nomade-Finance/nomade-server">
+    <img align="center" alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Nomade-Finance/nomade-server">
   </h3>
 </div>
 
