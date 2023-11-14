@@ -25,6 +25,10 @@ Si vous rencontrez des problèmes ou avez des questions, n'hésitez pas à:
 
 ```Rejoignez-nous dans cette aventure passionnante! 🚀```
 
+[![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
+
+## Status
+
 <div align="left">
   <h3>
     Client:
