@@ -19,7 +19,7 @@ Si vous souhaitez proposer des modifications, veuillez d'abord [ouvrir une issue
 
 ## Code de conduite
 
-En contribuant à ce projet, vous acceptez de respecter notre [Code de conduite](CODE_OF_CONDUCT.md).
+En contribuant à ce projet, vous acceptez de respecter notre [Code de conduite](CODE_DE_CONDUITE.md).
 
 Nous apprécions votre contribution à notre projet open source et nous avons hâte de voir vos propositions !
 
