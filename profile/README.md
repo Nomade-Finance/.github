@@ -1,4 +1,4 @@
-#  🏕️ Bienvenue, *cher(e)* Nomade.
+#  🏕️ Bienvenue au campement, *cher(e)* Nomade.
 
 Nomade Finance est votre passerelle vers le monde des crypto-actifs, conçue pour répondre aux besoins de l'Afrique de l'Ouest. Notre plateforme offre des échanges fluides et sécurisés entre vos **crypto-actifs** préférés et les mobiles money, simplifiant ainsi l'accès aux actifs numériques dans cette région dynamique.
 
@@ -24,3 +24,15 @@ Si vous rencontrez des problèmes ou avez des questions, n'hésitez pas à:
 - Nous joindre sur [Discord](https://discord.gg/dvES9Jf7Ud), [LinkedIn](https://www.linkedin.com/company/nomade-finance/) et [Twitter](lien_twitter) pour les futures mises à jour.
 
 ```Rejoignez-nous dans cette aventure passionnante! 🚀```
+
+<div style="display: grid" align="center">
+  <h3>
+    Client:
+    <img align="center" alt="GitHub contributors" src="https://img.shields.io/github/contributors/Nomade-Finance/nomade-client">
+    <a href="https://app.codacy.com/gh/Nomade-Finance/nomade-client/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade">
+      <img align="center" src="https://app.codacy.com/project/badge/Grade/7226dc4c090244218f411fefc03d54d4"/>
+    </a>
+    <img align="center" alt="GitHub last commit (by committer)" src="https://img.shields.io/github/last-commit/Nomade-Finance/nomade-client">
+  </h3>
+</div>
+
